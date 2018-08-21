@@ -1,0 +1,55 @@
+<div class="black">
+    <!-- 搜索框 -->
+    <div class="searchTop">
+        <span class="icon-back" id="icon-back"></span>
+        <div class="input-box">
+            <span class="icon-search"></span>
+            <input type="text" placeholder="输入书名/作者/关键字" class="ipt-search" id="ipt-search">
+            <button class="btn-search" id="btn-search">搜索</button>
+        </div>
+    </div>
+    <div class="scroll">
+        <div class="scrollbox">
+            <!-- 热门列表 -->
+            <div class="hotitem tog">热门搜索</div>
+            <!-- 热门列表 -->
+            <ul class="hotlist list tog" id="hotlist">
+
+            </ul>
+            <script id="hotTpl" type="text/x-handlebars-template">
+                {{#each this}}
+                <li>{{ad_name}}</li>
+                {{/each}}
+            </script>
+            <!-- 历史搜索 -->
+            <div class="hotitem tog">历史搜索</div>
+            <ul class="historylist list tog" id="historylist">
+
+            </ul>
+            <script id="historyTpl" type="text/x-handlebars-template">
+                {{#each this}}
+                <li>{{this}}</li>
+                {{/each}}
+            </script>
+            <!-- 内容 -->
+            <div class="searchcontent">
+
+            </div>
+            <!-- 内容模板 -->
+            <script id="tianTpl" type="text/x-handlebars-template">
+                {{#each this}}
+                <dl>
+                    <dt>
+                    <img src="{{cover}}" alt="">
+                </dt>
+                    <dd>
+                        <div class="title">{{title}}</div>
+                        <div class="intro">{{intro}}</div>
+                        <div class="author">{{author}}</div>
+                    </dd>
+                </dl>
+                {{/each}}
+            </script>
+        </div>
+    </div>
+</div>

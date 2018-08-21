@@ -1,0 +1,18 @@
+{{#each this}}
+<li class="top-content">
+    <div class="leftbox">
+        <img src="{{cover}}" alt="">
+        <span class="isfinish">{{#if finish}}完结{{else}}连载{{/if}}</span>
+    </div>
+    <div class="rightbox">
+        <div class="title">{{title}}</div>
+        <div class="autor">{{authors}}</div>
+        <div class="intro">{{summary}}</div>
+        <ul class="taglist">
+            {{#each tags}}
+            <li>{{this}}</li>
+            {{/each}}
+        </ul>
+    </div>
+</li>
+{{/each}}

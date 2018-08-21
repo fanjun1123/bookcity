@@ -1,0 +1,25 @@
+[{
+        "name": "lili",
+        "age": 18,
+        "love": "打羽毛球",
+        "id": 1
+    },
+    {
+        "name": "lili2",
+        "age": 18,
+        "love": "打蓝球",
+        "id": 2
+    },
+    {
+        "name": "lili3",
+        "age": 18,
+        "love": "踢足球",
+        "id": 3
+    },
+    {
+        "name": "lili4",
+        "age": 18,
+        "love": "打乒乓球",
+        "id": 4
+    }
+]

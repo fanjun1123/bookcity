@@ -1,0 +1,595 @@
+{
+    "count": 10,
+    "traceId": "duokan-lgb_reason_duokan_rank_v7-0ab92b14-225c-4634-b115-e3cbad180137-7419",
+    "result": 0,
+    "msg": "",
+    "items": [{
+            "ad": 0,
+            "word_count": 978440,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-0ab92b14-225c-4634-b115-e3cbad180137-7419",
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 23,
+            "copyright": "",
+            "title": "英雄联盟之我若为王",
+            "new_tags": [
+                "励志",
+                "学生",
+                "争霸流",
+                "LOL"
+            ],
+            "on_sale": true,
+            "comment_count": 16,
+            "has_ad": 0,
+            "click": 250850,
+            "latest_id": 469,
+            "score": 5.56,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1483536108,
+            "finish": true,
+            "tags": [
+                "游戏",
+                "电子竞技"
+            ],
+            "price": 5,
+            "chapter_count": 470,
+            "authors": "醉倾墨幽",
+            "categories": [{
+                    "category_id": 10000000,
+                    "label": "游戏"
+                },
+                {
+                    "category_id": 10000200,
+                    "label": "电子竞技"
+                }
+            ],
+            "rights": "阅文集团旗下创世中文网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p010HHMIaUEI/oNAMP4He818AWz.jpg",
+            "reason": "",
+            "summary": "林宇，一个高中生男孩，以七十场的连胜战绩，上王者。被电一众多王者称为-勾魂使者，可人们只知道他精通辅...",
+            "fiction_id": 319027,
+            "outer_id": "3608743403511503",
+            "latest": "完本：一个不负责任的写手……"
+        },
+        {
+            "ad": 0,
+            "word_count": 494824,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-0ab92b14-225c-4634-b115-e3cbad180137-7419",
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 13,
+            "copyright": "",
+            "title": "木叶之壕杰忍传",
+            "new_tags": [
+                "轻松",
+                "系统流",
+                "赚钱"
+            ],
+            "on_sale": true,
+            "comment_count": 8,
+            "has_ad": 0,
+            "click": 63517,
+            "latest_id": 238,
+            "score": 9.53,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1526668469,
+            "finish": false,
+            "tags": [
+                "二次元",
+                "衍生同人",
+                "同人小说",
+                "小说同人"
+            ],
+            "price": 5,
+            "chapter_count": 239,
+            "authors": "末日黄瓜",
+            "categories": [{
+                    "category_id": 23000000,
+                    "label": "同人小说"
+                },
+                {
+                    "category_id": 23000500,
+                    "label": "小说同人"
+                }
+            ],
+            "rights": "阅文集团旗下起点中文网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01gskhCQEP6/ntpNnUFbkxyM6P.jpg",
+            "reason": "",
+            "summary": "这是一个带着氪金系统，来到火影世界的故事，简单来说，氪了金就能成为强者，不氪就只能扑街，为了赚钱，主...",
+            "fiction_id": 435845,
+            "outer_id": "9501019004535303",
+            "latest": "第二百三十八章 新功能"
+        },
+        {
+            "ad": 0,
+            "word_count": 5574403,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-0ab92b14-225c-4634-b115-e3cbad180137-7419",
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 14,
+            "copyright": "",
+            "title": "重生明星音乐家",
+            "on_sale": true,
+            "comment_count": 9,
+            "has_ad": 0,
+            "click": 188509,
+            "latest_id": 1606,
+            "score": 6.14,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1526660601,
+            "finish": false,
+            "tags": [
+                "天才流",
+                "暧昧",
+                "热血都市",
+                "都市情缘",
+                "职场",
+                "娱乐明星"
+            ],
+            "price": 5,
+            "chapter_count": 1540,
+            "authors": "锦瑟华年",
+            "categories": [{
+                    "category_id": 20000,
+                    "label": "热血都市"
+                },
+                {
+                    "category_id": 20100,
+                    "label": "都市情缘"
+                },
+                {
+                    "category_id": 13000000,
+                    "label": "职场"
+                },
+                {
+                    "category_id": 13000100,
+                    "label": "娱乐明星"
+                }
+            ],
+            "rights": "阅文集团旗下创世中文网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01X2jI1ApF3/Sz0GRUQHbMdyKx.jpg",
+            "reason": "",
+            "summary": "音乐教师带着记忆穿越到了平行世界秦放歌身上，这里没有贝多芬，没有四大天王。有着巨大音乐知识宝库的他，...",
+            "fiction_id": 277464,
+            "outer_id": "22139312000111102",
+            "latest": "第1607章 商业互吹"
+        },
+        {
+            "ad": 0,
+            "word_count": 241071,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-0ab92b14-225c-4634-b115-e3cbad180137-7419",
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 23,
+            "copyright": "",
+            "title": "带着空间闯末世",
+            "on_sale": true,
+            "comment_count": 17,
+            "has_ad": 0,
+            "click": 73252,
+            "latest_id": 81,
+            "score": 5.65,
+            "allow_free_read": 1,
+            "rights_id": 20004,
+            "channel": [
+                2
+            ],
+            "updated": 1456827128,
+            "finish": true,
+            "tags": [
+                "原创",
+                "言情",
+                "近代现代",
+                "科幻",
+                "未来世界",
+                "科幻世界"
+            ],
+            "price": 3,
+            "chapter_count": 82,
+            "authors": "梦里寻郎",
+            "categories": [{
+                    "category_id": 60000,
+                    "label": "科幻世界"
+                },
+                {
+                    "category_id": 60100,
+                    "label": "未来世界"
+                },
+                {
+                    "category_id": 9000000,
+                    "label": "科幻"
+                },
+                {
+                    "category_id": 9000300,
+                    "label": "未来世界"
+                }
+            ],
+            "rights": "晋江文学",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01pjaAq1MUk/yQrRniTudFgvIS.jpg",
+            "reason": "",
+            "summary": "重生回到末世爆发的前三天，夏冰做的第一件事儿就是将祖传的手镯滴血认主。\n从此，空间在手，天下我有。\n...",
+            "fiction_id": 318343,
+            "outer_id": "2609253",
+            "latest": "082.大结局"
+        },
+        {
+            "ad": 0,
+            "word_count": 1037981,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-0ab92b14-225c-4634-b115-e3cbad180137-7419",
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 36,
+            "copyright": "",
+            "title": "宠物小精灵之全球在线",
+            "new_tags": [
+                "热血",
+                "宅男",
+                "重生",
+                "宠物"
+            ],
+            "on_sale": true,
+            "comment_count": 22,
+            "has_ad": 0,
+            "click": 145653,
+            "latest_id": 479,
+            "score": 8.16,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1514816175,
+            "finish": true,
+            "tags": [
+                "二次元",
+                "原生幻想",
+                "同人小说",
+                "小说同人"
+            ],
+            "price": 5,
+            "chapter_count": 480,
+            "authors": "小小鲤鱼王",
+            "categories": [{
+                    "category_id": 23000000,
+                    "label": "同人小说"
+                },
+                {
+                    "category_id": 23000500,
+                    "label": "小说同人"
+                }
+            ],
+            "rights": "阅文集团旗下创世中文网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01yGzlI74CK/IEPMMZcIrd0jqT.jpg",
+            "reason": "",
+            "summary": "地球宅男穿越到平行时空的宠物小精灵游戏。游戏设定取材于地球的宠物小精灵TV以及口袋妖怪游戏（注：与口...",
+            "fiction_id": 383114,
+            "outer_id": "7438735904269103",
+            "latest": "完本感言"
+        },
+        {
+            "ad": 0,
+            "word_count": 1621863,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-0ab92b14-225c-4634-b115-e3cbad180137-7419",
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 71,
+            "copyright": "",
+            "title": "风流僵尸的都市生活",
+            "new_tags": [
+                "机智",
+                "法师",
+                "无限流",
+                "僵尸"
+            ],
+            "on_sale": true,
+            "comment_count": 40,
+            "has_ad": 0,
+            "click": 401210,
+            "latest_id": 751,
+            "score": 8.59,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1526652742,
+            "finish": false,
+            "tags": [
+                "灵异鬼怪",
+                "灵异",
+                "灵异奇谈"
+            ],
+            "price": 5,
+            "chapter_count": 752,
+            "authors": "闲话居士",
+            "categories": [{
+                    "category_id": 8000000,
+                    "label": "灵异"
+                },
+                {
+                    "category_id": 8000400,
+                    "label": "灵异奇谈"
+                }
+            ],
+            "rights": "阅文集团旗下创世中文网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01vNquRtX0x/fDecglSYkXo4Xi.jpg",
+            "reason": "",
+            "summary": "一次意外，小道士甘凉竟然变成了传说中的不死僵尸。 师传的半本道书，人人欲夺，书里究竟有什么秘密？在追...",
+            "fiction_id": 353082,
+            "outer_id": "5900188304241403",
+            "latest": "第七百五十一章 意外出现的刘莹莹"
+        },
+        {
+            "ad": 0,
+            "word_count": 1429274,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-0ab92b14-225c-4634-b115-e3cbad180137-7419",
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 14,
+            "copyright": "",
+            "title": "太古战天诀",
+            "new_tags": [
+                "热血",
+                "学生",
+                "重生",
+                "丹药"
+            ],
+            "on_sale": true,
+            "comment_count": 9,
+            "has_ad": 0,
+            "click": 154554,
+            "latest_id": 705,
+            "score": 5,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1523373375,
+            "finish": true,
+            "tags": [
+                "玄幻",
+                "东方玄幻"
+            ],
+            "price": 5,
+            "chapter_count": 706,
+            "authors": "小钱钱在哪里",
+            "categories": [{
+                    "category_id": 1000000,
+                    "label": "玄幻"
+                },
+                {
+                    "category_id": 1000100,
+                    "label": "东方玄幻"
+                }
+            ],
+            "rights": "阅文集团旗下创世中文网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01sS3TM8qpj/Q8qAlrht2lPxH7.jpg",
+            "reason": "",
+            "summary": "【免费最火爽文】天武大陆最强武帝凌天被心爱的女人背叛陨落，万年后重生，修《太古战天诀》，逆天崛起，踩...",
+            "fiction_id": 404405,
+            "outer_id": "6678790804247603",
+            "latest": "新书"
+        },
+        {
+            "ad": 0,
+            "word_count": 410771,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-0ab92b14-225c-4634-b115-e3cbad180137-7419",
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 20,
+            "copyright": "",
+            "title": "田园娇：嫌妻翻身山里汉",
+            "new_tags": [
+                "宠文",
+                "种田文",
+                "炮灰逆袭"
+            ],
+            "on_sale": true,
+            "comment_count": 13,
+            "has_ad": 0,
+            "click": 195401,
+            "latest_id": 200,
+            "score": 8.1,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                2
+            ],
+            "updated": 1506172964,
+            "finish": true,
+            "tags": [
+                "古代言情",
+                "经商种田"
+            ],
+            "price": 5,
+            "chapter_count": 201,
+            "authors": "缺无暇",
+            "categories": [{
+                    "category_id": 17000000,
+                    "label": "古代言情"
+                },
+                {
+                    "category_id": 17000600,
+                    "label": "经商种田"
+                }
+            ],
+            "rights": "阅文集团旗下云起书院",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01AKs47APnq/pcYaFqFOz2mpgA.jpg",
+            "reason": "",
+            "summary": "田娇重生了！\r\n睁开眼看到眼前还漏洞的茅草棚顶子，她竟莫名地感觉温馨，心生欢喜。\r\n曾经的她，嫌弃夫...",
+            "fiction_id": 357418,
+            "outer_id": "6700065804892203",
+            "latest": "第199章 重逢【终章】"
+        },
+        {
+            "ad": 0,
+            "word_count": 708668,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-0ab92b14-225c-4634-b115-e3cbad180137-7419",
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 107,
+            "copyright": "",
+            "title": "虫裔",
+            "on_sale": true,
+            "comment_count": 82,
+            "has_ad": 0,
+            "click": 1046041,
+            "latest_id": 227,
+            "score": 8.26,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                2
+            ],
+            "updated": 1439101213,
+            "finish": true,
+            "tags": [
+                "星际恋歌",
+                "科幻世界",
+                "宠文",
+                "科幻",
+                "萌系",
+                "科幻空间",
+                "星际战争",
+                "冒险"
+            ],
+            "price": 5,
+            "chapter_count": 228,
+            "authors": "箬穷途",
+            "categories": [{
+                    "category_id": 60000,
+                    "label": "科幻世界"
+                },
+                {
+                    "category_id": 60300,
+                    "label": "星际战争"
+                },
+                {
+                    "category_id": 21000000,
+                    "label": "科幻空间"
+                },
+                {
+                    "category_id": 21000100,
+                    "label": "星际恋歌"
+                }
+            ],
+            "rights": "阅文集团旗下起点女生网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01jHyOn73xZ/T68ZOjiTVYJ5Gs.jpg",
+            "reason": "",
+            "summary": "蛋生？卵生？\n柯子辛无语至极，晃了晃头顶上那两根触角，\n有没有人告诉她，重生为一只虫族幼虫是怎么一个...",
+            "fiction_id": 304856,
+            "outer_id": "55813fde50e3a4079e15a45c",
+            "latest": "番外 小纪和纳可（4）"
+        },
+        {
+            "ad": 0,
+            "word_count": 1147851,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-0ab92b14-225c-4634-b115-e3cbad180137-7419",
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 28,
+            "copyright": "",
+            "title": "至尊妖孽兵王",
+            "new_tags": [
+                "热血",
+                "医生",
+                "强者回归"
+            ],
+            "on_sale": true,
+            "comment_count": 17,
+            "has_ad": 0,
+            "click": 106135,
+            "latest_id": 535,
+            "score": 9.42,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1526662141,
+            "finish": false,
+            "tags": [
+                "军事",
+                "谍战特工"
+            ],
+            "price": 5,
+            "chapter_count": 535,
+            "authors": "最佳恶人",
+            "categories": [{
+                    "category_id": 7000000,
+                    "label": "军事"
+                },
+                {
+                    "category_id": 7000200,
+                    "label": "谍战特工"
+                }
+            ],
+            "rights": "阅文集团旗下创世中文网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01fLDXvjS2m/vaT8En6NNfUXRA.jpg",
+            "reason": "",
+            "summary": "【免费新书】一代妖孽战医叶洛，受杀手之王临终托女隐居都市。\r\n本想安稳过日子的他，却不经意间被美女包...",
+            "fiction_id": 420600,
+            "outer_id": "9110268804458403",
+            "latest": "第536章：斩龙（3更求票）"
+        }
+    ],
+    "explain": {
+        "traceId": "duokan-lgb_reason_duokan_rank_v7-0ab92b14-225c-4634-b115-e3cbad180137-7419"
+    },
+    "total": 30,
+    "tops": [],
+    "more": true
+}

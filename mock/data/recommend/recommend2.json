@@ -1,0 +1,588 @@
+{
+    "count": 10,
+    "traceId": "duokan-lgb_reason_duokan_rank_v7-b1403b10-bcd5-4cd6-9062-95174cda0780-7419",
+    "result": 0,
+    "msg": "",
+    "items": [{
+            "ad": 0,
+            "word_count": 297274,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-b1403b10-bcd5-4cd6-9062-95174cda0780-7419",
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 20,
+            "copyright": "",
+            "title": "重生末世之如玉",
+            "on_sale": true,
+            "comment_count": 9,
+            "has_ad": 0,
+            "click": 71182,
+            "latest_id": 96,
+            "score": 7.1,
+            "allow_free_read": 1,
+            "rights_id": 20004,
+            "channel": [
+                2
+            ],
+            "updated": 1426297827,
+            "finish": true,
+            "tags": [
+                "科幻",
+                "科幻世界",
+                "未来世界",
+                "幻想未来",
+                "言情"
+            ],
+            "price": 3,
+            "chapter_count": 97,
+            "authors": "良家宅女",
+            "categories": [{
+                    "category_id": 60000,
+                    "label": "科幻世界"
+                },
+                {
+                    "category_id": 60100,
+                    "label": "未来世界"
+                },
+                {
+                    "category_id": 9000000,
+                    "label": "科幻"
+                },
+                {
+                    "category_id": 9000300,
+                    "label": "未来世界"
+                }
+            ],
+            "rights": "晋江文学",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01xLrMyK9vF/ofJFmvRUyewRQ5.jpg",
+            "reason": "",
+            "summary": "死之前，她的陪着这个男人睡，\n为嘛醒来之后，\n还得陪着这个男人睡！",
+            "fiction_id": 254099,
+            "outer_id": "2230489",
+            "latest": "死"
+        },
+        {
+            "ad": 0,
+            "word_count": 1852293,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-b1403b10-bcd5-4cd6-9062-95174cda0780-7419",
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 210,
+            "copyright": "",
+            "title": "我是美人鱼：老公，你别闹！",
+            "new_tags": [
+                "宠文",
+                "总裁",
+                "杀伐果断",
+                "契约",
+                "日久生情"
+            ],
+            "on_sale": true,
+            "comment_count": 140,
+            "has_ad": 0,
+            "click": 3673258,
+            "latest_id": 901,
+            "score": 9.13,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                2
+            ],
+            "updated": 1512554981,
+            "finish": true,
+            "tags": [
+                "现代言情",
+                "豪门世家",
+                "浪漫青春",
+                "青春纯爱"
+            ],
+            "price": 5,
+            "chapter_count": 900,
+            "authors": "慢慢鱼",
+            "categories": [{
+                    "category_id": 19000000,
+                    "label": "浪漫青春"
+                },
+                {
+                    "category_id": 19000200,
+                    "label": "青春纯爱"
+                }
+            ],
+            "rights": "阅文集团旗下云起书院",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01bnyZsJRAZ/48YJvmteQc8bUb.jpg",
+            "reason": "",
+            "summary": "“我们生个孩子吧？”新婚不久的男神老公将她压在床上提议道！\r\n她紧紧的拽住领口，“不行，我是鱼，你是",
+            "fiction_id": 323622,
+            "outer_id": "4471291803788603",
+            "latest": "本章免费，必看！"
+        },
+        {
+            "ad": 0,
+            "word_count": 2024546,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-b1403b10-bcd5-4cd6-9062-95174cda0780-7419",
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 351,
+            "copyright": "",
+            "title": "绯闻萌妻：腹黑老公，请住手！",
+            "new_tags": [
+                "宠文",
+                "明星",
+                "腹黑",
+                "宠物",
+                "隐婚"
+            ],
+            "on_sale": true,
+            "comment_count": 158,
+            "has_ad": 0,
+            "click": 6202290,
+            "latest_id": 1981,
+            "score": 8.65,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                2
+            ],
+            "updated": 1524783554,
+            "finish": true,
+            "tags": [
+                "现代言情",
+                "娱乐明星"
+            ],
+            "price": 5,
+            "chapter_count": 1982,
+            "authors": "北枝月",
+            "categories": [{
+                    "category_id": 18000000,
+                    "label": "现代言情"
+                },
+                {
+                    "category_id": 18000300,
+                    "label": "娱乐明星"
+                }
+            ],
+            "rights": "阅文集团旗下云起书院",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p011BktFjhaT/44WQnzktqvnr60.jpg",
+            "reason": "",
+            "summary": "“要我在卧室宠你，还是在客厅宠你，选。”\r\n“穆谨沉……你个衣冠禽~兽！”\r\n她一不小心睡了权势滔天...",
+            "fiction_id": 355802,
+            "outer_id": "6670320504847003",
+            "latest": "第1982章 后来【完结】"
+        },
+        {
+            "ad": 0,
+            "word_count": 1459978,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-b1403b10-bcd5-4cd6-9062-95174cda0780-7419",
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 198,
+            "copyright": "",
+            "title": "校草霸道宠：宝贝，吻上瘾",
+            "new_tags": [
+                "甜文",
+                "校草",
+                "萌系",
+                "学院"
+            ],
+            "on_sale": true,
+            "comment_count": 119,
+            "has_ad": 0,
+            "click": 2996914,
+            "latest_id": 1527,
+            "score": 9.13,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                2
+            ],
+            "updated": 1491233699,
+            "finish": true,
+            "tags": [
+                "青春校园",
+                "浪漫青春"
+            ],
+            "price": 5,
+            "chapter_count": 1450,
+            "authors": "秋奈奈",
+            "categories": [{
+                    "category_id": 19000000,
+                    "label": "浪漫青春"
+                },
+                {
+                    "category_id": 19000400,
+                    "label": "青春校园"
+                }
+            ],
+            "rights": "阅文集团旗下云起书院",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01Jk1hAOsXT/Q8XTNFGIGQwDEO.jpg",
+            "reason": "",
+            "summary": "初次见面，他将她树咚强吻。\r\n明明是她比较吃亏，他却一副她捡了便宜的样子。\r\n而迎新会上，他当着众人...",
+            "fiction_id": 345744,
+            "outer_id": "4894111203201903",
+            "latest": "最终章：我爱你，未完待续"
+        },
+        {
+            "ad": 0,
+            "word_count": 2397235,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-b1403b10-bcd5-4cd6-9062-95174cda0780-7419",
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 171,
+            "copyright": "",
+            "title": "都市极品小医仙",
+            "new_tags": [
+                "热血",
+                "医生",
+                "重生",
+                "赚钱"
+            ],
+            "on_sale": true,
+            "comment_count": 89,
+            "has_ad": 0,
+            "click": 2809075,
+            "latest_id": 1176,
+            "score": 7.52,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1526670397,
+            "finish": false,
+            "tags": [
+                "异术超能",
+                "都市"
+            ],
+            "price": 5,
+            "chapter_count": 1172,
+            "authors": "萌萌僵甲子",
+            "categories": [{
+                    "category_id": 5000000,
+                    "label": "都市"
+                },
+                {
+                    "category_id": 5000300,
+                    "label": "异术超能"
+                }
+            ],
+            "rights": "阅文集团旗下创世中文网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01SeIr63Uxq/a3vVmOYauiQPCR.jpg",
+            "reason": "",
+            "summary": "姐姐娇媚，少年很忙。\r\n神秘少年以绝强本领，征服万千美女，冷艳女总裁、霹雳霸王花、风骚老板娘、清纯小...",
+            "fiction_id": 351069,
+            "outer_id": "5371817404638203",
+            "latest": "第1174章 回京"
+        },
+        {
+            "ad": 0,
+            "word_count": 733316,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-b1403b10-bcd5-4cd6-9062-95174cda0780-7419",
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 290,
+            "copyright": "",
+            "title": "羊入虎口：这个相公有点坏",
+            "on_sale": true,
+            "comment_count": 228,
+            "has_ad": 0,
+            "click": 24501109,
+            "latest_id": 447,
+            "score": 6.44,
+            "allow_free_read": 1,
+            "rights_id": 20002,
+            "channel": [
+                2
+            ],
+            "updated": 1411384261,
+            "finish": true,
+            "tags": [
+                "种田重生",
+                "经商种田",
+                "布衣种田",
+                "古代言情"
+            ],
+            "price": 3,
+            "chapter_count": 448,
+            "authors": "高山舞者",
+            "categories": [{
+                    "category_id": 110000,
+                    "label": "古代言情"
+                },
+                {
+                    "category_id": 110400,
+                    "label": "布衣种田"
+                },
+                {
+                    "category_id": 17000000,
+                    "label": "古代言情"
+                },
+                {
+                    "category_id": 17000600,
+                    "label": "经商种田"
+                }
+            ],
+            "rights": "红袖",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01MFBBW4tHP/XOOPERh6FHIeDU.jpg",
+            "reason": "",
+            "summary": "她代姐而嫁，未曾洞房即被下堂。\n隔天，全府上下传言她婚前失贞，她无力辩驳。\n那触目惊心的鲜血将他的理...",
+            "fiction_id": 31068,
+            "outer_id": "52d74f0b0ea49726724f88b3",
+            "latest": "终极结局（完）"
+        },
+        {
+            "ad": 0,
+            "word_count": 2928555,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-b1403b10-bcd5-4cd6-9062-95174cda0780-7419",
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 69,
+            "copyright": "",
+            "title": "快穿：黑化BOSS，撩上瘾",
+            "new_tags": [
+                "宠文",
+                "护短",
+                "女强",
+                "咸鱼翻身"
+            ],
+            "on_sale": true,
+            "comment_count": 39,
+            "has_ad": 0,
+            "click": 1490066,
+            "latest_id": 2826,
+            "score": 7.44,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                2
+            ],
+            "updated": 1526667771,
+            "finish": false,
+            "tags": [
+                "科幻空间",
+                "时空穿梭"
+            ],
+            "price": 5,
+            "chapter_count": 2827,
+            "authors": "纳兰墨",
+            "categories": [{
+                    "category_id": 21000000,
+                    "label": "科幻空间"
+                },
+                {
+                    "category_id": 21000200,
+                    "label": "时空穿梭"
+                }
+            ],
+            "rights": "阅文集团旗下云起书院",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01RGd00GidB/UFX9L76u4mHBJu.jpg",
+            "reason": "",
+            "summary": "洛笙歌这辈子最对不起的，便是墨柒，她害死了他。\n为了救回墨柒，渡入轮回，收集碎片。\n只是，为什么墨柒...",
+            "fiction_id": 381566,
+            "outer_id": "7212229404218203",
+            "latest": "第2826章 被欺负的柔弱包子一家三口04"
+        },
+        {
+            "ad": 0,
+            "word_count": 1584582,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-b1403b10-bcd5-4cd6-9062-95174cda0780-7419",
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 19,
+            "copyright": "",
+            "title": "快穿女配：黑化boss，撩撩撩",
+            "new_tags": [
+                "宠文",
+                "专情",
+                "系统流",
+                "炮灰逆袭"
+            ],
+            "on_sale": true,
+            "comment_count": 10,
+            "has_ad": 0,
+            "click": 289808,
+            "latest_id": 572,
+            "score": 7.47,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                2
+            ],
+            "updated": 1526670474,
+            "finish": false,
+            "tags": [
+                "科幻空间",
+                "时空穿梭"
+            ],
+            "price": 5,
+            "chapter_count": 573,
+            "authors": "苏又爽",
+            "categories": [{
+                    "category_id": 21000000,
+                    "label": "科幻空间"
+                },
+                {
+                    "category_id": 21000200,
+                    "label": "时空穿梭"
+                }
+            ],
+            "rights": "阅文集团旗下云起书院",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01KSL0f51oA/VYO72DQzcNjzzh.jpg",
+            "reason": "",
+            "summary": "【宠文，1V1】每个成功的女主背后，都有几个无辜的小炮灰。\r\n\r\n她们颜值高、身世好，本来可以一世安...",
+            "fiction_id": 385636,
+            "outer_id": "7505197204425903",
+            "latest": "第568章"
+        },
+        {
+            "ad": 0,
+            "word_count": 859028,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-b1403b10-bcd5-4cd6-9062-95174cda0780-7419",
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 164,
+            "copyright": "",
+            "title": "斗破苍穹神之炎帝",
+            "new_tags": [
+                "热血",
+                "法师",
+                "技术流",
+                "魔兽"
+            ],
+            "on_sale": true,
+            "comment_count": 94,
+            "has_ad": 0,
+            "click": 354491,
+            "latest_id": 389,
+            "score": 8.92,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1526646481,
+            "finish": false,
+            "tags": [
+                "二次元",
+                "衍生同人",
+                "同人小说",
+                "小说同人"
+            ],
+            "price": 5,
+            "chapter_count": 390,
+            "authors": "柠檬邱霞",
+            "categories": [{
+                    "category_id": 23000000,
+                    "label": "同人小说"
+                },
+                {
+                    "category_id": 23000500,
+                    "label": "小说同人"
+                }
+            ],
+            "rights": "阅文集团旗下创世中文网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p017qxXWh1ZN/s1NN7w7LIsS7rE.jpg",
+            "reason": "",
+            "summary": "晋异界，寻爱人，遇机缘，入学院，倾虐恋，终聚首，破族迷，得造化，开传奇，破苍穹！\n为什么斗气大陆源气...",
+            "fiction_id": 423458,
+            "outer_id": "8896975503574403",
+            "latest": "第三百八十九章 恶狠狠的敲诈一笔！"
+        },
+        {
+            "ad": 0,
+            "word_count": 1492425,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-b1403b10-bcd5-4cd6-9062-95174cda0780-7419",
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 13,
+            "copyright": "",
+            "title": "校花的贴身奥特曼",
+            "new_tags": [
+                "热血",
+                "杀手",
+                "穿越",
+                "变身"
+            ],
+            "on_sale": true,
+            "comment_count": 8,
+            "has_ad": 0,
+            "click": 44115,
+            "latest_id": 662,
+            "score": 7.38,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1520778684,
+            "finish": true,
+            "tags": [
+                "科幻",
+                "时空穿梭"
+            ],
+            "price": 5,
+            "chapter_count": 662,
+            "authors": "浮生依忆梦",
+            "categories": [{
+                    "category_id": 9000000,
+                    "label": "科幻"
+                },
+                {
+                    "category_id": 9000200,
+                    "label": "时空穿梭"
+                }
+            ],
+            "rights": "阅文集团旗下创世中文网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p016j7orOkYI/lije36Jjh8JuJ1.jpg",
+            "reason": "",
+            "summary": "四位被命运选中的人，不得不拿回力量。同为圣殿的后裔，因命运的牵引而再次相遇。\r\n他们的光代表着什么？...",
+            "fiction_id": 403061,
+            "outer_id": "5405742204353703",
+            "latest": "新书发布"
+        }
+    ],
+    "explain": {
+        "traceId": "duokan-lgb_reason_duokan_rank_v7-b1403b10-bcd5-4cd6-9062-95174cda0780-7419"
+    },
+    "total": 30,
+    "tops": [],
+    "more": true
+}

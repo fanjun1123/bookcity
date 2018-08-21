@@ -1,0 +1,136 @@
+<div class="con">
+    <!-- 父级盒子 -->
+    <div class="list" up="上拉加载" down="下拉刷新">
+        <!-- 内容 -->
+        <div class="block">
+            <!-- search框 -->
+            <div class="false-search">
+                <div class="false-inputs">
+                    <span></span>
+                    <div class="placeholder">输入书名/作者/创意字</div>
+                </div>
+                <div class="icon-right"></div>
+            </div>
+            <!-- banner -->
+            <div class="swiper-container index-banner ">
+                <div class="swiper-wrapper index-wrapper">
+
+                </div>
+            </div>
+            <script id="swiper-Tpl" type="text/x-handlebars-template">
+                {{#each this}}
+                <div class="swiper-slide">
+                    <img src="{{ad_pic_url}}" alt="">
+                </div>
+                {{/each}}
+            </script>
+            <!-- index类型 -->
+            <div class="index-types">
+                <!-- 渲染分类 -->
+            </div>
+        </div>
+        <script id="types-Tpl" type="text/x-handlebars-template">
+            {{#each this}}
+            <dl>
+                <dt>
+                    <img src="{{ad_copy}}" alt="">
+                </dt>
+                <dd>{{ad_name}}</dd>
+            </dl>
+            {{/each}}
+        </script>
+
+        <div class="block">
+            <!-- item -->
+            <h2 class="item hot">本周最火</h2>
+            <!-- hot-list列表 -->
+            <div class="list-content  hot-list">
+
+
+            </div>
+            <!-- 更多 -->
+            <div class="more">
+                查看更多
+            </div>
+            <script id="hot-list-Tpl" type="text/x-handlebars-template">
+                {{#each this}}
+                <a href="/detail/{{fiction_id}}">
+                    <dt>
+                            <img src="{{cover}}" alt="">
+                        </dt>
+                    <dd>{{title}}</dd>
+                </a>
+
+                {{/each}}
+            </script>
+        </div>
+
+        <!-- 重磅推荐 -->
+        <div class="block">
+            <h2 class="height">重磅推荐</h2>
+            <ul class="height-list height-list-in">
+                <!-- 重磅推荐 -->
+            </ul>
+            <div class="bot-more">
+                <span class="get" id="heightGet">换一换</span>
+                <span class="getmore">查看更多</span>
+            </div>
+            <script id="height-list-Tpl" type="text/x-handlebars-template">
+                {{#each this}}{{#unless @index}}
+                <li class="top-content">
+                    <div class="leftbox">
+                        <img src="{{cover}}" alt="">
+                        <span class="number">0{{addIndex @index}}</span>
+                        <span class="isfinish">{{#if finish}}完结{{else}}连载{{/if}}</span>
+                    </div>
+                    <div class="rightbox">
+                        <div class="title">{{title}}</div>
+                        <div class="autor">{{authors}}</div>
+                        <div class="intro">{{summary}}</div>
+                        <ul class="taglist">
+                            {{#each tags}}
+                            <li>{{this}}</li>
+                            {{/each}}
+                        </ul>
+                    </div>
+                </li>
+                {{else}}
+                <li class="inline-list">
+                    <ol class="in-countent">
+                        <li>
+                            <div class="num">0{{addIndex @index}}</div>
+                            <div class="title">{{title}}</div>
+                            <div class="autor">{{authors}}</div>
+                        </li>
+                    </ol>
+                </li>
+                {{/unless}} {{/each}}
+            </script>
+        </div>
+
+        <!-- 女生爱看 -->
+        <div class="block">
+            <div class="height">女生最爱</div>
+            <ul class="height-list" id="girllove">
+                <!-- 女生最爱 -->
+            </ul>
+            <div class="bot-more">
+                <span class="get" id="girlGet">换一换</span>
+                <span class="getmore girl">女生频道>></span>
+            </div>
+
+        </div>
+
+        <!-- 男生爱看 -->
+        <div class="block">
+            <div class="height">男生最爱</div>
+            <ul class="height-list" id="boylove">
+
+            </ul>
+            <div class="bot-more">
+                <span class="get" id="boyGet">换一换</span>
+                <span class="getmore boy">男生频道>></span>
+            </div>
+        </div>
+    </div>
+</div>

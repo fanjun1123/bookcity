@@ -73,3 +73,38 @@
     -webkit-flex-basis: $val;
     flex-basis: $val;
 }
+
+
+/*超过几行显示省略号*/
+
+@mixin one-line {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+@mixin line($num) {
+    display: -webkit-box;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: $num;
+    -webkit-box-orient: vertical;
+}
+
+
+/*背景*/
+
+@mixin bg($img, $l:center) {
+    background: url($img) no-repeat $l center;
+}
+
+
+/* 滚动 */
+
+@mixin scroll {
+    overflow: scroll;
+    overflow-scrolling: touch;
+    -webkit-overflow-scrolling: touch;
+}
+
+$browser-default-font-size: 37.5px !default;

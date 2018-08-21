@@ -1,0 +1,64 @@
+<script id="wrapperTpl" type="text/x-handlebars-template">
+    <header class="detailHeader">
+        <span class="back"></span>
+        <p>{{item.title}}</p>
+        <span class="shouye"></span>
+    </header>
+    <div class="detailSection">
+        <div class="detailContent">
+            <div class="detailList">
+                <dl>
+                    <dt>
+                        <img src="{{item.cover}}" alt="">
+                    </dt>
+                    <dd>
+                        <div class="items">{{item.title}}</div>
+                        <div class="autor">{{item.authors}}</div>
+                        <div class="talk">评价：{{item.score_count}}个评价</div>
+                        <div class="talk">价格：{{item.price}}书币/千字</div>
+                        <div class="number">字数：{{item.word_count}}万字</div>
+                    </dd>
+                </dl>
+            </div>
+            <div class="detailbottom">
+                <button class="startread">开始阅读</button>
+                <button class="download">下载</button>
+            </div>
+            <div class="intro">
+                {{item.summary}}
+            </div>
+            <div class="new">
+                最新：{{item.latest}}
+            </div>
+            <div class="type">
+                <h2>类别标签</h2>
+                <ul class="tags">
+                    {{#each item.tags}}
+                    <li>{{this}}</li>
+                    {{/each}}
+                </ul>
+            </div>
+            <div class="other">
+
+                <h3>作者的其他图书</h3>
+
+                <div class="otherbook">
+                    {{#each author_books}}
+                    <dl>
+                        <dt>
+                            <img src="{{cover}}" alt="">
+                        </dt>
+                        <dd>
+                            {{title}}
+                        </dd>
+                    </dl>
+                    {{/each}}
+                </div>
+            </div>
+            <div class="imgmsg">
+                <h3>图片信息</h3>
+                <p>版权：{{item.rights}}</p>
+            </div>
+        </div>
+    </div>
+</script>
